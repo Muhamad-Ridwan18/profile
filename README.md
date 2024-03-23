@@ -1,13 +1,11 @@
 
 <div id="header" align="center">
-  
-
-  <img src="https://komarev.com/ghpvc/?username=Muhamad-Ridwan18&style=flat-square&color=blue" alt=""/>
-  <h1>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <a href="https://ibb.co/HDRMZDg"><img src="https://i.ibb.co/HDRMZDg/banner.png" alt="banner" border="0" width="600" height="400"></a>
 </div>
 
 <div align="center">
-  <img rc="https://i.ibb.co/HDRMZDg/banner.png" alt="banner" border="0" width="600" height="400"/>
+  <h1>hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <img src="https://komarev.com/ghpvc/?username=Muhamad-Ridwan18&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
